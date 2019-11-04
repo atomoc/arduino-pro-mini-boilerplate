@@ -1,0 +1,6 @@
+.vscode
+.history
+.pioenvs
+.piolibdeps
+.pio/libdeps
+.pio/build
